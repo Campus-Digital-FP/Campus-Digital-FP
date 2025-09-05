@@ -1,10 +1,9 @@
 ![Cabecera](/images/miscelanea/campusdigitalfp-cabecera.png)
 <h1 align="center">Bienvenido 👋 Somos CampusDigitalFP, Aragón</h1>
-<h3 align="center">Somos un centro público de Formación Profesional que nace en 2023 con un doble objetivo en red:
+<h3 align="center">Somos un centro público de Formación Profesional que nace en 2023 con un doble objetivo en red:</h3>
 
-Por un lado, avanzar en la mejora de la FP virtual en Aragón e impartir docencia (a distancia y presencial) en cursos especializados en tecnologías disruptivas. 
-
-Y, por otro lado y de forma transversal, impactar en el entorno productivo incorporando procesos de digitalización en las diferentes enseñanzas de FP y fomentando el  emprendimiento digital.</h3>
+* Avanzar en la mejora de la FP virtual en Aragón e impartir docencia (a distancia y presencial) en cursos especializados en tecnologías disruptivas. 
+* Y de forma transversal, impactar en el entorno productivo incorporando procesos de digitalización en las diferentes enseñanzas de FP y fomentando el  emprendimiento digital.</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/campusdigitalfp/" target="blank">
